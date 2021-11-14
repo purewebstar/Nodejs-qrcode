@@ -8,7 +8,7 @@
 ### 1. Backend
 - Nodejs
 - ExpressJs
-- MongoDb
+- qrcode library
 
 ## Dependency install
 ```
